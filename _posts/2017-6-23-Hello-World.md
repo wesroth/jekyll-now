@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Genetic Algorithms for microstructural optimization of Alloys
+title: Genetic Algorithms and Alloys
 ---
 
 
