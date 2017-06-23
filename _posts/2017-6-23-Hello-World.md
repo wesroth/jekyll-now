@@ -1,8 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Genetic Algorithms for microstructural optimization of Alloys
 ---
 
-# Genetic Algorithms for microstructural optimization of Alloys
 
 Coming Summer '17...
