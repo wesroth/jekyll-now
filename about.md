@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Hola
 
-Hey there, I am Wes, I am a Materials Science and Engineering Student at the University of Illinois at Urbana-Champaign. I concentrate on metals and computational methods. I work on batteries, high strength steels, and developing computational methods to improve the pace of progress of material discovery and implementation. The views here are my own and not that of my employers. 
+Hey there, I am Wes, I am a Material Science and Engineering Student at the University of Illinois at Urbana-Champaign. I concentrate on metals and computational methods. I work on batteries, high strength steels, and developing computational methods to improve the pace of progress of material discovery and implementation. The views here are my own and not that of my employers. 
 
 
 ### Interests
